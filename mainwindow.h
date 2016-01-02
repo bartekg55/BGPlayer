@@ -14,8 +14,6 @@
 #include <QTableWidgetItem>
 #include <QMessageBox>
 
-//Sratata
-
 namespace Ui {
 class MainWindow;
 }

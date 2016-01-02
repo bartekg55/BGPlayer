@@ -6,7 +6,7 @@ MainWindow::MainWindow(QWidget *parent) :
     ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
-    MainWindow::setWindowTitle("BG Player");
+    MainWindow::setWindowTitle("BG Player /ELO");
 
     ui->tableWidget->setColumnWidth(0, 70);
     ui->tableWidget->setColumnWidth(1, 328);
